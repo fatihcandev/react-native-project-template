@@ -1,6 +1,6 @@
 {
   "name": "react-native-project-template",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A React Native project template that has Typescript, linting, formatting, navigation dependencies and folder structure.",
   "files": [
     "template",
