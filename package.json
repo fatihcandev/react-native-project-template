@@ -1,0 +1,26 @@
+{
+    "name": "react-native-project-template",
+    "version": "0.0.1",
+    "description": "A React Native project template that has Typescript, linting, formatting, navigation dependencies and folder structure.",
+    "files": [
+      "template",
+      "template.config.js"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/fatihcandev/react-native-template.git"
+    },
+    "keywords": [
+      "react-native",
+      "typescript",
+      "jest",
+      "template",
+      "boilerplate"
+    ],
+    "author": "Fatih Can <concat@fatihcan.dev>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/fatihcandev/react-native-template/issues"
+    },
+    "homepage": "https://github.com/fatihcandev/react-native-template#readme"
+  }
