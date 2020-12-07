@@ -1,5 +1,7 @@
 # React Native Template
 
+![npm](https://img.shields.io/npm/v/react-native-project-template) ![NPM](https://img.shields.io/npm/l/react-native-project-template) ![npm](https://img.shields.io/npm/dw/react-native-project-template)
+
 A React Native project template that has Typescript, linting, formatting, navigation dependencies and folder structure.
 
 - TypeScript and custom path aliases
